@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakul%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Mobile%20Engineer%20%7C%2012%2B%20Years%20%7C%20iOS%20%C2%B7%20Android%20%C2%B7%20Flutter%20%C2%B7%20React%20Native&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakul%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Mobile%20Engineer%20%7C%2010%2B%20Years%20%7C%20iOS%20%C2%B7%20Android%20%C2%B7%20Flutter%20%C2%B7%20React%20Native&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
 
 <br/>
 
@@ -20,17 +20,17 @@
 🚀 **10+ years** of end-to-end mobile product ownership — from architecture to App Store launch.
 
 - 📱 Specialize in **iOS (Swift/SwiftUI/UIKit)**, **Android (Kotlin)**, **Flutter**, and **React Native**
-- 🚗 Rare production-grade experience in **CarPlay**, **Android Auto**, **Siri AppIntents**, and **Google App Actions**
-- 🏗️ Built **Ejaro** solo — $4.1M funded, 2.5L+ downloads across GCC
-- 🏠 Built **Vivo Control** solo — deployed across 50+ residential communities in Puerto Rico
-- 👥 Led a **38+ developer team** at TecOrb Technologies while staying hands-on across 8+ concurrent products
+- 🚗 Production-grade experience in **CarPlay**, **Android Auto**, **Siri AppIntents**, and **Google App Actions**
+- 🏗️ Built **Ejaro** solo — $4.1M funded, 250K+ downloads across GCC
+- 🏠 Built **Vivo Control** Guided and deployed across 50+ residential communities in Puerto Rico
+- 👥 Led a **40+ developer team** at TecOrb Technologies while staying hands-on across 8+ concurrent products
 - 🎯 Open to **Senior**, **Lead**, and **Principal Mobile Engineer** roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 📱 Mobile
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -95,7 +95,7 @@
 ### 🚗 [Ejaro](https://github.com/pt-nakul-sharma)
 **P2P Vehicle-Sharing Marketplace — GCC**
 
-> **$4.1M funded** · **2.5L+ downloads** · 1.5L iOS · 90K Android
+> **$4.1M funded** · **250K+ downloads** · 150K iOS · 90K Android
 
 - ✅ Built solo from scratch as native iOS (Swift)
 - ✅ Led full migration to React Native
