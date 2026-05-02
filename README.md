@@ -149,7 +149,7 @@
 <tr>
 <td width="33%">
 
-### 🔗 [LinkIO](https://github.com/pt-nakul-sharma)
+### 🔗 [LinkIO](https://github.com/pt-nakul-sharma/LinkIO-iOS)
 Self-hosted deep linking SDK — open-source alternative to Branch.io
 
 Published across **4 repos**: iOS/SPM/CocoaPods, Android, React Native, Rails/npm
@@ -160,7 +160,7 @@ Published across **4 repos**: iOS/SPM/CocoaPods, Android, React Native, Rails/np
 <td width="33%">
 
 ### 📷 [iOSScanner](https://github.com/pt-nakul-sharma/iOSScanner)
-Native iOS barcode/QR scanner — **11 formats**, pinch-to-zoom, haptic feedback
+Native iOS QR scanner — **11 formats**, pinch-to-zoom, haptic feedback
 
 Also published as **react-native-ios-scanner** on npm with full TypeScript API
 
