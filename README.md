@@ -17,19 +17,14 @@
 
 ## 👨‍💻 About Me
 
-```swift
-let nakul = MobileEngineer(
-    experience: "12+ years",
-    roles: ["Senior", "Lead", "Principal Mobile Engineer"],
-    superpower: "Architecture → App Store, solo",
-    solo_built: ["Ejaro ($4.1M funded, 2.5L+ downloads)", "Vivo Control (50+ communities, Puerto Rico)"],
-    teamLed: 38,       // developers
-    concurrentProducts: 8,
-    openTo: ["Senior", "Lead", "Principal Mobile Engineer"]
-)
-```
+🚀 **10+ years** of end-to-end mobile product ownership — from architecture to App Store launch.
 
-> **Built funded startup apps solo. Led 38+ developer teams. Shipped production-grade CarPlay, Android Auto, Siri AppIntents & Google App Actions — simultaneously.** That's a rare combination.
+- 📱 Specialize in **iOS (Swift/SwiftUI/UIKit)**, **Android (Kotlin)**, **Flutter**, and **React Native**
+- 🚗 Rare production-grade experience in **CarPlay**, **Android Auto**, **Siri AppIntents**, and **Google App Actions**
+- 🏗️ Built **Ejaro** solo — $4.1M funded, 2.5L+ downloads across GCC
+- 🏠 Built **Vivo Control** solo — deployed across 50+ residential communities in Puerto Rico
+- 👥 Led a **38+ developer team** at TecOrb Technologies while staying hands-on across 8+ concurrent products
+- 🎯 Open to **Senior**, **Lead**, and **Principal Mobile Engineer** roles
 
 ---
 
