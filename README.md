@@ -7,7 +7,7 @@
 
 <!-- Badges Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pt--nakul--sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pt-nakul-sharma)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-~98k%20reached-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-~100k%20reached-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 [![Location](https://img.shields.io/badge/📍%20Noida-India-brightgreen?style=for-the-badge)](mailto:nakulsharma.1296@gmail.com)
 [![Email](https://img.shields.io/badge/Email-nakulsharma.1296%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakulsharma.1296@gmail.com)
 
